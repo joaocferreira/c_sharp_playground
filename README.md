@@ -8,4 +8,5 @@ Run sh boot.sh
 Hello word
 
 `dotnet new console`
+
 `dotnet run`
